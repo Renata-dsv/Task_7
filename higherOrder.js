@@ -17,4 +17,4 @@ function isSixLetters(word) {
 const words = ["orange", "banana", "apple", "grapes", "cherry", "peach", "plum", "mango", "pear", "berry"];
 const sixLetterWords = myFilterFunction(words, isSixLetters);
 
-console.log(sixLetterWords); // Output: ["orange", "banana", "cherry", "grapes"]
+console.log(sixLetterWords); 
